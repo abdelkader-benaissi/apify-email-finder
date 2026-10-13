@@ -1,0 +1,1 @@
+{"actorOutputSchemaVersion":1,"description":"Email addresses found on the scanned pages, one row per unique email.","properties":{"dataset":{"description":"Dataset with one row per unique email: address, page where found, source and page title.","template":"{{links.apiDefaultDatasetUrl}}/items","title":"Emails","type":"string"}},"title":"Email Finder output"}

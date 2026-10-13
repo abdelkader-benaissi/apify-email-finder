@@ -1,0 +1,6 @@
+# Apify SDK (installed explicitly: the base image does not guarantee it) +
+# HTTP fetching and HTML parsing stack.
+apify
+httpx
+beautifulsoup4
+lxml
